@@ -7,12 +7,12 @@
     "targets":  [
                     "MCH"
                 ],
-    "latestVersion":  "1.0.0",
+    "latestVersion":  "1.0.1",
     "minHiAuRoVersion":  "0.2.29",
     "maxHiAuRoVersion":  "",
-    "packageUrl":  "https://github.com/yinduandafeimao/feimao-acr-release/releases/download/v1.0.0/feimao.mch.zip",
-    "sha256":  "56cd2456b7e7e7f06e478e6d730ef7f435de39b83fec64714cadf3bb486dea34",
-    "publishedAt":  "2026-06-29T14:36:55Z",
-    "changelog":  "Initial public release.",
-    "entryDll":  "feimao.dll"
+    "packageUrl":  "https://github.com/yinduandafeimao/feimao-acr-release/releases/download/v1.0.1/feimao.mch.zip",
+    "sha256":  "f9cb20934385d6a351c678ff7958b3c6fc2120fd2d0e5734dd2b93bd9c25a030",
+    "publishedAt":  "2026-06-29T15:26:48Z",
+    "changelog":  "Fix head graze hotkey (hk id + Check/Execute); align all MCH hotkey Ids with HiAuRo; Sdk 0.2.31; catalog PostBuild to feimao.mch.dll.",
+    "entryDll":  "feimao.mch.dll"
 }
