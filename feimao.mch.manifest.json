@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  1,
+    "acrId":  "mch",
+    "name":  "feimao MCH",
+    "author":  "feimao",
+    "description":  "feimao Machinist PvE ACR for HiAuRo.",
+    "targets":  [
+                    "MCH"
+                ],
+    "latestVersion":  "1.0.0",
+    "minHiAuRoVersion":  "0.2.29",
+    "maxHiAuRoVersion":  "",
+    "packageUrl":  "https://github.com/yinduandafeimao/feimao-acr-release/releases/download/v1.0.0/feimao.mch.zip",
+    "sha256":  "56cd2456b7e7e7f06e478e6d730ef7f435de39b83fec64714cadf3bb486dea34",
+    "publishedAt":  "2026-06-29T14:36:55Z",
+    "changelog":  "Initial public release.",
+    "entryDll":  "feimao.dll"
+}

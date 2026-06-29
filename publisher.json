@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "publisherId": "feimao",
+  "publisherName": "feimao",
+  "homepage": "https://github.com/yinduandafeimao/feimao-acr-release",
+  "contact": "",
+  "acrs": [
+    {
+      "acrId": "mch",
+      "name": "feimao MCH",
+      "manifestUrl": "https://raw.githubusercontent.com/yinduandafeimao/feimao-acr-release/main/feimao.mch.manifest.json"
+    }
+  ]
+}
