@@ -9,7 +9,7 @@ https://github.com/yinduandafeimao/feimao-acr-release
 HiAuRo → **ACR 源管理** → 添加并启用：
 
 ```text
-https://raw.githubusercontent.com/yinduandafeimao/feimao-acr-release/main/publisher.json
+https://raw.githubusercontent.com/yinduandafeimao/feimao-acr-release/master/publisher.json
 ```
 
 然后在 **ACR 列表** → 刷新 → 下载「feimao 机工」。
